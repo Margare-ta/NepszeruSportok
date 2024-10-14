@@ -1,7 +1,7 @@
 export function MiertFontosASport() {
     return <>
-        <section>
-            <h2>Miért fontos a sport?</h2>
+        <section className="container text-center">
+            <h2 className=" text-center">Miért fontos a sport?</h2>
             <p>
                 A sport nemcsak a fizikai egészséget javítja, hanem hozzájárul a mentális jóléthez is. A rendszeres
                 mozgás segít megelőzni a krónikus betegségeket, erősíti az izmokat és a szív-érrendszert, valamint

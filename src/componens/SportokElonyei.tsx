@@ -1,7 +1,7 @@
 export function SportokElonyei() {
     return <>
         <br />
-    <section className="mb-5">
+    <section className="mb-5 container text-center">
         <h2>A sportok előnyei</h2>
                     <ul className="list-gruop">
                         <li className="list-group-item">Fizikai erőnlét fejleszté</li>

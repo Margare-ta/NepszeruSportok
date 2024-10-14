@@ -1,11 +1,11 @@
 export function NepszeruSportok() {
     return <>
         <br />
-        <main className="constainer my-4">
-            <div className="table-responsive">
-                <section className="mb-5">
+        <main className=" my-4 container text-center">
+            <div >
+                <section className="mb-5  container">
                     <h2>Népszerű sportok</h2>
-                    <table>
+                    <table className="fit-container mb-5">
                         <thead>
                             <tr>
                                 <th>#</th>

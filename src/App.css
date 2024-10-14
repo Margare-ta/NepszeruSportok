@@ -1,0 +1,10 @@
+.h1header{
+    font-size: 300%;
+}
+
+.imgh{
+    width: 100%;
+    height: auto;
+    max-height: 400px;
+    object-fit: cover;
+}

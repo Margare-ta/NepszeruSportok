@@ -12,12 +12,16 @@ function App() {
   
   return (
     <>
-      <Fejlec></Fejlec>
-      <NepszeruSportok></NepszeruSportok>
-      <SportokElonyei></SportokElonyei>
-      <KepGalleria></KepGalleria>
-      <MiertFontosASport></MiertFontosASport>
-      <Lablec></Lablec>
+      <body>
+        
+        <Fejlec></Fejlec>
+        <NepszeruSportok></NepszeruSportok>
+        <SportokElonyei></SportokElonyei>
+        <KepGalleria></KepGalleria>
+        <MiertFontosASport></MiertFontosASport>
+        <Lablec></Lablec>
+      </body>
+      
     </>
   )
 }

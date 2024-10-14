@@ -7,6 +7,7 @@ import { NepszeruSportok } from './componens/NepszeruSportok'
 import { SportokElonyei } from './componens/SportokElonyei'
 import './index.css'
 
+
 function App() {
   
   return (
